@@ -1,9 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Haardhik+Kunder!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+This+is+Kapil+Kashyap!;" />
 </h1>
 
 <div align="center">
   I’m a Full StackWeb and Ui-Ux developer.
+  Also a 2⭐ coder on codechef
 
  </div>
  <br />
@@ -21,8 +22,8 @@
 <h2 align="center"> Frameworks I am Vetrsed with </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git,canva,etherjs,web3" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,cpp,canva,etherjs,web3" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git" />
 </div>
 
 <br/>
