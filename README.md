@@ -22,7 +22,7 @@
 <h2 align="center"> Frameworks I am Vetrsed with </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,cpp,canva,etherjs,web3" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,canva,etherjs,web3" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git" />
 </div>
 
