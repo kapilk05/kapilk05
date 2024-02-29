@@ -4,7 +4,8 @@
 
 <div align="center">
   I’m a Full StackWeb and Ui-Ux developer.
-  Also a 2⭐ coder on codechef
+  Also a 3⭐ coder on codechef
+  Codechef id - bytehacker
 
  </div>
  <br />
