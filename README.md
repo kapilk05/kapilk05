@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  I’m a Full StackWeb and Ui-Ux developer.
-  Also a 3⭐ coder on codechef
+  I’m a Full StackWeb and Ui-Ux developer.<br>
+  Also a 3⭐ coder on codechef<br>
   Codechef id - bytehacker
 
  </div>
