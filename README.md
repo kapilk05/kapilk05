@@ -60,6 +60,6 @@
 <div align="left">
   <h3>GitHub Stats:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=kapilkashyap&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+/div>
 
 <hr />
