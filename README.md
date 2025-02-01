@@ -31,7 +31,7 @@
   <ul>
     <li><a href="#">'F1 Race Winner Prediction using Graph Neural Networks'</a></li>
     <li><a href="#">'Brain Tumor Detection using Federated Learning and XAI'</a></li>
-    <li><a href="#">'Nerual Style Transfer using VGG19'</a></li>
+    <li><a href="https://ijercse.com/dynamic-neural-style.php">'Dynamic Neural Style Transfer for Artistic Image Generation using VGG19'</a></li>
   </ul>
 </div>
 <br />
@@ -60,6 +60,13 @@
 <div align="left">
   <h3>GitHub Stats:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=kapilkashyap&show_icons=true&theme=radical" alt="GitHub Stats" />
-/div>
+</div>
+
+<br />
+
+<div align="left">
+  <h3>Work Life Social:</h3>
+  <img src="https://img.shields.io/badge/Work%20Life%20Social-FF5722?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 <hr />
