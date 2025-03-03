@@ -65,7 +65,7 @@
   <a href="https://www.codechef.com/users/bytehacker">
     <img src="https://img.shields.io/badge/CodeChef-3%20Star-5C1E10?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/kapilkashyap/">
+  <a href="https://leetcode.com/kashyap_kapil/">
     <img src="https://img.shields.io/badge/LeetCode-Silver-0A74DA?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </div>
