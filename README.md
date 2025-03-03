@@ -74,7 +74,7 @@
 
 <div align="left">
   <h3>LeetCode Stats:</h3>
-  <img src="https://leetcard.jacoblin.cool/comderpanda?theme=dark&font=ABeeZee&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/kashyap_kapil?theme=dark&font=ABeeZee&ext=activity" alt="LeetCode Stats" />
 </div>
 
 <br />
